@@ -28,4 +28,13 @@ flutter run
 - Cloud sync
 - Notifications
 -Otp verification
--Automatic taking inputs 
+-Automatic taking inputs
+
+## 📸 Screenshots
+
+![Login](assets/screenshots/login.png)
+![Dashboard](assets/screenshots/dashboard.png)
+![Add Transaction](assets/screenshots/add_transaction.png)
+![Goals](assets/screenshots/goals.png)
+
+
